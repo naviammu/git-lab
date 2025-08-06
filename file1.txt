@@ -1,3 +1,5 @@
 hello good morning
 
 This is a new line added to file1.txt
+
+This line is from the feature-x branch.
