@@ -1,5 +1,6 @@
-good morning
+happy morning
 
 This is a new line added to file1.txt
 This line combines changes from both main and feature-x.
+
 
